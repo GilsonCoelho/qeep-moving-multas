@@ -15,7 +15,7 @@ http://java.sun.com/xml/ns/persistence/persistence_2_0.xsd"
 			<property name="
 				javax.persistence.jdbc.user " value="postgres" />
 			<property name="javax.persistence.jdbc.password"
-				value="Coelho@1979" />
+				value="XXXXXXXX" />
 			<property name="hibernate.default_schema" value="multas"/>
 			<property name="hibernate.dialect"
 				value="org.hibernate.dialect.PostgreSQL92Dialect" />
